@@ -1,0 +1,4 @@
+internationaliseringsnota
+=========================
+
+Internationaliseringsnot gem. Groningen
